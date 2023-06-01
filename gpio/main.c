@@ -10,6 +10,9 @@
 #define BUTTON3_bm 0x80
 
 
+// zmiana test4
+
+
 enum KeyboardState{RELASED, BUTTON_0, BUTTON_1, BUTTON_2, BUTTON_3};
 
 enum Direction{RIGHT, LEFT};
